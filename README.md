@@ -1,3 +1,3 @@
 # SPDE_codes
 
-Prototype codes of Marta Blangiardo course on SPDE
+Prototype codes of [Marta Blangiardo](https://www.martablangiardo.github.io) course on SPDE
